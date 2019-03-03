@@ -1,14 +1,14 @@
-#Resume 
+# Resume 
 Alexey Moiseenko
 
 [Telegram](t.me/lessmond)
 [GitHub](github.com/lessmond)
 [email](beldeut@gmail.com)
 
-##Summary
+## ummary
 I want to learn JS because I'm passionate in WebDevelopment
 
-##Skils
+## Skils
 Basic knolege in
 * C++
 * C
@@ -17,7 +17,7 @@ Basic knolege in
 * CSS
 * JS
 
-##Code example
+## Code example
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -25,9 +25,9 @@ function fancyAlert(arg) {
   }
 }
 ```
-##Education
+## Education
 I study in BSU, faculty of radiophysics and computer technologies
 Studied English in Streamline for 1.5 years
 Took courses on basic HTML, CSS and JavaScript in different online resources, like codeacademy, htmlacademy, coursera, etc.
-##English level
+## English level
 B1 
